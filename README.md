@@ -30,7 +30,7 @@ To run this project, you need a web browser.
 2. Navigate to the project directory.
 
     ```bash
-    cd bmi-calculator-website
+    cd bmi-calculator
     ```
 
 3. Open the `index.html` file in your web browser.
