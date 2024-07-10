@@ -24,7 +24,7 @@ To run this project, you need a web browser.
 1. Clone the repository or download the files.
 
     ```bash
-    git clone https://github.com/1001amit/bmi-calculator-website.git
+    git clone https://github.com/1001amit/bmi-calculator.git
     ```
 
 2. Navigate to the project directory.
